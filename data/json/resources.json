@@ -28,5 +28,10 @@
     "name": "Woy.ai",
     "description": "AI Tools Directory",
     "url": "https://woy.ai"
+  },
+  {
+    "name": "allinai.tools",
+    "description": "All In One AI Tools",
+    "url": "https://allinai.tools"
   }
 ]
