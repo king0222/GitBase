@@ -47,5 +47,12 @@
     "date": "2024-10-15T09:06:03.510Z",
     "lastModified": "2024-10-15T09:06:03Z",
     "path": "data/md/test-article.md"
+  },
+  {
+    "title": "test2",
+    "description": "test2 description",
+    "date": "2024-10-15T09:08:57.790Z",
+    "lastModified": "2024-10-15T09:08:58Z",
+    "path": "data/md/test2-title.md"
   }
 ]
