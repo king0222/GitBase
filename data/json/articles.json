@@ -40,5 +40,12 @@
     "date": "2024-08-11T13:16:44.231Z",
     "lastModified": "2024-08-11T13:16:44Z",
     "path": "data/md/managing-articles.md"
+  },
+  {
+    "title": "test title",
+    "description": "test description",
+    "date": "2024-10-15T09:06:03.510Z",
+    "lastModified": "2024-10-15T09:06:03Z",
+    "path": "data/md/test-article.md"
   }
 ]
